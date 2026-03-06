@@ -2,7 +2,7 @@
  
  <h1>⚡ LUCAS VALE</h1>
  <p><strong>Systems Builder & Revenue Engineer</strong></p>
- <p><i>Building the Opportunity Machine at <a href="https://valesystems.com" target="_blank">Vale Systems</a>.</i></p>
+ <p><i>Building the Opportunity Machine at <a href="https://valesystems.org" target="_blank">Vale Systems</a>.</i></p>
  
  <div id="badges" align="center" style="font-size:0;">
  <a href="mailto:lvale.dev@gmail.com"><img src="https://img.shields.io/badge/Contact-lvale.dev@gmail.com-f97316?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
